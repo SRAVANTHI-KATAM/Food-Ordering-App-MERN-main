@@ -1,4 +1,3 @@
 # Food-Ordering-App-MERN
 
-## Demo
-
+Project Report in PDF
